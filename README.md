@@ -11,7 +11,7 @@ This project is a Discord bot that implements moderation commands inspired by Li
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/discord-moderation-bot.git
+   git clone https://github.com/texasmadecode/discord-moderation-bot.git
    cd discord-moderation-bot
    ```
 
