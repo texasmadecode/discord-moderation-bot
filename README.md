@@ -21,6 +21,7 @@ This project is a Discord bot that implements moderation commands inspired by Li
    ```
 
 3. Set up your bot token in the `bot.py` file.
+ or use our easy to use `setup.py` file
 
 ## Usage
 
